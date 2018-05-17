@@ -1,0 +1,41 @@
+
+
+#menu {
+	font-family: 'Rajdhani', sans-serif;
+	background-color: black;
+	border: solid black 1px;
+	color: black;
+}
+#menu a{
+	font-size: 100%
+}
+
+.formularios {
+	margin: 3px;
+	border: solid 1px white;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 3px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+.formularios button {
+	font-size: 60%;
+	font-weight: bold; 
+}
+
+
+/* RODAPE */
+.footer {
+	font-family: 'Rajdhani', sans-serif;
+    padding-top: 1px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 90%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 90%;
+}
+
+
